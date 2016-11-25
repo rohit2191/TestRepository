@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="4CTestSuite">
+ 	<listeners>
+		<listener class-name="Test.listeners.AnnotationTransformer"></listener>
+      	<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      	<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+ 	</listeners>
+	<test name="4C Test Cases">
+		<classes>
+			<class name="TestScript.TCScript"></class>
+	    </classes>
+	</test>
+</suite> <!-- Suite -->

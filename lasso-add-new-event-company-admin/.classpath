@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/apache-log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/extentreports-2.05.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/guice-3.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/MonteScreenRecorder.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/poi-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/poi-ooxml-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/poi-ooxml-schemas-3.7-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/screen-recorder-r2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/selenium-java-2.48.2-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/testng-6.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-JarFile-Latest/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

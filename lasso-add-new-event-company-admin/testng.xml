@@ -8,7 +8,9 @@
  	</listeners>
 	<test name="4C Test Cases">
 		<classes>
-			<class name="TestScript.TCScript"></class>
+			<class name="TestScript.TCScript">
+			</class>
+			<!-- Bakwas -->			
 	    </classes>
 	</test>
 </suite> <!-- Suite -->
